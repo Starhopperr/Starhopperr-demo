@@ -1,3 +1,3 @@
 # Starhopperr-demo
 This is my first git project<br>
-Author- Mainak Sarkar
+Author- Mainak Sar
